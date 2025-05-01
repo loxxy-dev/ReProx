@@ -8,7 +8,7 @@ Features:
 
 🔁 Automatic deduplication and validation
 
-🔌 Supports multiple proxy protocols (HTTP, HTTPS, SOCKS4, SOCKS5)
+🔌 Supports multiple proxy protocols (HTTP, SOCKS4, SOCKS5)
 
 ⚙️ Easy to integrate into your own tools and workflows
 
